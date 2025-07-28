@@ -16,28 +16,7 @@ This repository contains the solution for **Round 1B** of the **Adobe India Hack
 - Outputs a structured JSON result
 
 ---
-## 📂 Project Structure
-```
-Adobe_hackthon/
-├── app/
-│ ├── main.py # Entry script to run processing
-│ ├── io_utils.py # I/O helpers for JSON and directories
-│ ├── heading_detection.py # Extracts structured sections from PDFs
-│ ├── ranker.py # TF-IDF ranking logic for sections and subsections
-├── input/
-│ └── challenge1/
-│ ├── persona_job.json # Persona + Job to be done
-│ ├── *.pdf # PDFs for Challenge 1
-│ └── challenge2/
-│ └── challenge3/
-├── output/
-│ └── challenge1/
-│ └── challenge2/
-│ └── challenge3/
-├── Dockerfile # Docker image definition
-├── requirements.txt # Python dependencies
-└── README.md # This file
-```
+
 ## 🛠️ Setup Instructions
 
 ### 1. Clone the repository
