@@ -1,6 +1,6 @@
-# 🧠 Adobe India Hackathon 2025 – Round 1B
+# 🧠 Adobe India Hackathon 2025 – Round 2
 
-This repository contains the solution for **Round 1B** of the **Adobe India Hackathon 2025**. The objective is to analyze PDF documents using a defined **persona** and **job-to-be-done**, and generate a structured JSON output containing:
+This repository contains the solution for **Round 2 ** of the **Adobe India Hackathon 2025**. The objective is to analyze PDF documents using a defined **persona** and **job-to-be-done**, and generate a structured JSON output containing:
 
 - Metadata
 - Ranked relevant sections
